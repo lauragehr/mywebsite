@@ -67,14 +67,14 @@ disqusShortname = ""
     #    url = "UrlOfLink"
 
     # Button Style 1
-    [[params.navigation.button1]]
-      name = "Get Started"
-      url = "blogs"
+  #  [[params.navigation.button1]]
+  #   name = "Get Started"
+  #  url = "blogs"
 
     # Button Style 2
-    [[params.navigation.button2]]
-      name = "Log In"
-      url = "#"
+  # [[params.navigation.button2]]
+  #    name = "Log In"
+  #    url = "#"
 
 
   # Banner section
@@ -92,20 +92,20 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Who is Laura G"
+      subtitle = "A short biogrpahy"
       image = "pic01.jpg"
       url = "blogs/aliquam"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
+      title = "MY CV"
+      subtitle = "The best CV you will ever see"
       image = "pic02.jpg"
       url = "blogs/tempus"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
+      title = "My projects"
+      subtitle = "The most mediocre R projects you will ever see"
       image = "pic03.jpg"
       url = "blogs/magna"
 
