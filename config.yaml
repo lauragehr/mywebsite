@@ -44,7 +44,7 @@ params:
       # - icon: fa-twitter
       #   label: Twitter
       #   url: https://www.twitter.com/kostisc
-     - icon: fa-facebook
+      - icon: fa-facebook
        label: Facebook
        url: https://www.facebook.com
       - icon: fa-instagram
