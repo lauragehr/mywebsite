@@ -56,61 +56,63 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com/in/laura-gehring-735b49145/
   image: ''
-  name: Your name
+  name: Laura G
   navigation:
     button1:
       - name: Get Started
         url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+#    button2:
+#      - name: Log In
+#        url: '#'
     links:
       - name: Home
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+#      - name: Generic Blog
+#        url: blogs/ipsum
+#      - name: Elements
+#        url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: is a G
+    title: Laura
   tiles:
     enable: yes
     showcase:
-      - image: backround_sunset.jpg
-        subtitle: A short biography
+      - image: swisslife.jpg
+        subtitle: A short biography & CV
         title: Who is Laura G
-        url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        url: blogs/cv
+      - image: lbs.jpg
+        subtitle: The beggining of my journey with R
+        title: My pre-class assigment
+        url: blogs/pre_course
+      - image: code.jpg
+        subtitle: My favorite assingment so far
+        title: Assignment nb3
+        url: blogs/risk_return
+#      - image: pic04.jpg
+#        subtitle: Nisl Sed Aliquam
+#        title: Ipsum
+#        url: blogs/ipsum
+#      - image: pic05.jpg
+#        subtitle: Ipsum Dolor Sit Amet
+#        title: Consequat
+#        url: blogs/ipsum
+#      - image: pic06.jpg
+#        subtitle: Feugiat Amet Tempus
+#        title: Etiam
+#        url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "My full name is Laura Shireen Meta Gehring Firouz and I grew up in Switzerland to \r\n
+      an Italian mother and an Iranian father. I am lucky enough to speak 3 languages fluently \r\n
+      (French, Italian, English) and I am quite proficient in Spanish. Growing up in Lausanne was amazing \r\n
+      as we got to enjoy the lake and its activites in summer and then in winter we could go skiing every \r\n
+      weekend. After finishing highschool I was accepted at Bocconi University where I studied Economics and \r\n
+      management for 3 years. After that I took a gap year where I traveled in South America for three months \r\n
+      and got some work experience. Luckily during this time I applied to LBS and got accepted, and here I am now
+      \r\n writing my website."
+    title: A lil' somethin somehtin about me
     url: blogs
