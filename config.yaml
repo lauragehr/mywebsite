@@ -90,11 +90,11 @@ params:
       - image: code.jpg
         subtitle: My favorite assingment so far
         title: Assignment nb3
+        url: blogs/tempus
+      - image: spices.jpg
+        subtitle: Risk-Return of DIJA stocks
+        title: Risk-Return of DIJA stocks
         url: blogs/risk_return
-#      - image: pic04.jpg
-#        subtitle: Nisl Sed Aliquam
-#        title: Ipsum
-#        url: blogs/ipsum
 #      - image: pic05.jpg
 #        subtitle: Ipsum Dolor Sit Amet
 #        title: Consequat
