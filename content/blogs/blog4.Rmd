@@ -19,7 +19,7 @@ can be used to help the world become more sustainable place for everyone.
 
 Here is my CV:
 
-```{r ,warning=FALSE, message=FALSE, echo=FALSE}
-knitr::include_graphics("/img/pic07.jpg",error=FALSE)
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+knitr::include_graphics("/img/blogs/CV.jpg",error=FALSE)
 ```
 
